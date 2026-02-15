@@ -3,6 +3,7 @@ $TOKEN = "YOUR-TOKEN-HERE"
 $friends = [ordered]@{
     "INSERT-USER-1-NAME" = "INSERT-CHAT-ID"
     "INSERT-USER-2-NAME" = "INSERT-CHAT-ID"
+# Add as many users you want
 }
 
 # Fix for special characters and TLS 1.2 (Mandatory on Win 11 for Discord)
