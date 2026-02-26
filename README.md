@@ -11,7 +11,8 @@ B L A C K - C A T
 1. [Info](#info)
 2. [Prerequisites](#prerequisites)
 3. [Installation & Usage](#installation--usage)
-4. [Support](#support)
+4. [Preview](#preview)
+5. [Support](#support)
 
 ## Info
 
@@ -37,7 +38,9 @@ PowerShell: Version 5.1 or higher (Pre-installed on Windows 11).
 Set-ExecutionPolicy Bypass -Scope Process; & ".\FILENAMEHERE.ps1"
 ```
 11. If everything is correct, the user's name will appear next to a number. Type that number to see the recent messages.
-    
+## Preview
+<img src="assets/preview.png" width="30%" />
+
 ## Support
 If you have any issues, contact me on Discord: wyxnar.
 <div align="center">
