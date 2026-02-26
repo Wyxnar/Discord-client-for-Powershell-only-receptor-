@@ -39,10 +39,11 @@ Set-ExecutionPolicy Bypass -Scope Process; & ".\FILENAMEHERE.ps1"
 ```
 11. If everything is correct, the user's name will appear next to a number. Type that number to see the recent messages.
 ## Preview
-<img src="assets/preview.png" width="30%" />
+<img src="assets/blackcatpreview.png" width="40%" />
 
 ## Support
 If you have any issues, contact me on Discord: wyxnar.
+
 <div align="center">
 <small>W Y X N A R</small>
 </div>
