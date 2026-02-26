@@ -32,8 +32,11 @@ PowerShell: Version 5.1 or higher (Pre-installed on Windows 11).
 6. In line 2 of your text document, paste the token replacing YOUR-TOKEN-HERE.
 7. In line 3, replace INSERT-USER-1-NAME with the name of the person. Then, replace INSERT-CHAT-ID with the numbers found at the end of the Discord chat URL.
 8. Click File > Save As. In "Save as type", choose "All Files (.)". Name the file and ensure it ends with .ps1 (Example: script.ps1).
-9. Open Windows PowerShell and type the following command (replace FILENAME with your file's name): Set-ExecutionPolicy Bypass -Scope Process; & ".\FILENAME.ps1"
-10. If everything is correct, the user's name will appear next to a number. Type that number to see the recent messages.
+9. Open Windows PowerShell and type the following command (replace FILENAME with your file's name):
+```bash
+Set-ExecutionPolicy Bypass -Scope Process; & ".\FILENAMEHERE.ps1"
+```
+11. If everything is correct, the user's name will appear next to a number. Type that number to see the recent messages.
     
 ## Support
 If you have any issues, contact me on Discord: wyxnar.
