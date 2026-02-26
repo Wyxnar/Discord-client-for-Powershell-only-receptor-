@@ -37,3 +37,6 @@ PowerShell: Version 5.1 or higher (Pre-installed on Windows 11).
     
 ## Support
 If you have any issues, contact me on Discord: wyxnar.
+<div align="center">
+<small>W Y X N A R</small>
+</div>
